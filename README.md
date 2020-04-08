@@ -1,2 +1,2 @@
-# Machine-Learning-and-Data-Mining
+# Machine Learning and Data Mining
 
