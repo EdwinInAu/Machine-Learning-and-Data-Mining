@@ -4,4 +4,12 @@
 > ### 3: [Homework 1 Report](./Homework1_Report.pdf)
 > ### 4: [Code for homework 1](./homework1.py)
 
-![image](https://github.com/EdwinInAu/Fork_File_CS-Notes/blob/master/smile.png)
+
+
+
+
+
+
+
+
+![image](https://github.com/EdwinInAu/Fork_File_CS-Notes/blob/master/Smile.png)
