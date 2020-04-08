@@ -3,3 +3,4 @@
 > ### 2: [Homework 2 description and request](./Homework2.pdf)
 > ### 3: [Homework 2 Report](./Homework2_Report.pdf)
 > ### 4: [Code for homework 2](./homework2.py)
+![image](https://github.com/EdwinInAu/Fork_File_CS-Notes/blob/master/Smile.png)
