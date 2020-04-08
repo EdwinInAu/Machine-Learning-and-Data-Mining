@@ -1,6 +1,6 @@
 ## Project: Machine Learning and Data Mining
 > ### 1: [Project description and request](./ProjectSpecification.pdf)
-> ### 2: [Reference Paper 1](./Unobtrusive-Sleep-Monitoring-using-Smartphones.pdf)
+> ### 2: [Reference Paper 1](./Unobtrusive_Sleep_Monitoring_using_Smartphones.pdf)
 > ### 3: [Reference Paper 2](./StudentLIfe_AssessingMentalHealth.pdf)
 > ### 4: [Flour output prediction](./flour.csv)
 > ### 5: [Panas output prediction](./panas.csv)
