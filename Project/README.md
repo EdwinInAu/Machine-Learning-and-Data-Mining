@@ -1,12 +1,12 @@
 ## Project: Machine Learning and Data Mining
-> ### 1: [Project description and request](./ProjectSpecification.pdf)
-> ### 2: [Reference Paper 1](./Unobtrusive_Sleep_Monitoring_using_Smartphones.pdf)
-> ### 3: [Reference Paper 2](./StudentLIfe_AssessingMentalHealth.pdf)
-> ### 4: [Flour output prediction](./flour.csv)
-> ### 5: [Panas output prediction](./panas.csv)
-> ### 6: [Data Analysis Code](./Data_Analysis.py)
-> ### 7: [Project Code](./project_code.py)
-> ### 8: [Project Report](./Project_Report.pdf)
+> ### :pencil2: [Project description and request](./ProjectSpecification.pdf)
+> ### :computer: [Reference Paper 1](./Unobtrusive_Sleep_Monitoring_using_Smartphones.pdf)
+> ### :cloud: [Reference Paper 2](./StudentLIfe_AssessingMentalHealth.pdf)
+> ### :art: [Flour output prediction](./flour.csv)
+> ### :floppy_disk: [Panas output prediction](./panas.csv)
+> ### :bulb: [Data Analysis Code](./Data_Analysis.py)
+> ### :wrench: [Project Code](./project_code.py)
+> ### :watermelon: [Project Report](./Project_Report.pdf)
 
 
 
