@@ -6,4 +6,3 @@
 > ### :cloud: [Homework 2 description and request](./Homework2.pdf)
 > ### :art: [Homework 2 Report](./Homework2_Report.pdf)
 > ### :floppy_disk: [Code for homework 2](./homework2.py)
-![image](https://github.com/EdwinInAu/Fork_File_CS-Notes/blob/master/Smile.png)
